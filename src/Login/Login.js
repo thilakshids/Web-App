@@ -29,9 +29,9 @@ const Login =  () => {
   </Button>
 </Form>
 
-                </Col>
+                {/* </Col>
 
-                <Col lg={8} nd={6} sn={12}>
+                <Col lg={8} nd={6} sn={12}> */}
 
                 </Col>
                 </Row>
