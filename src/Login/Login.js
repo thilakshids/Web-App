@@ -6,7 +6,7 @@ const Login =  () => {
    <>
         <Container>
             <Row>
-                <Col lg={4} nd={6} sn={12}>
+                {/* <Col lg={4} nd={6} sn={12}> */}
 
                 <Form>
   <Form.Group className="mb-3" controlId="formBasicEmail">
